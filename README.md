@@ -1,11 +1,7 @@
 <div align="center">
 
 # Hi, I'm Yerin Lee
-### AI Convergence student, 3rd Year
-
-<div align="center">
-<a href="https://velog.io/@yyelran/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
-<a href="mailto:yyelingo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+AI Convergence student, 3rd Year
 
   <br>
   
