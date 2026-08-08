@@ -33,7 +33,7 @@ Sungshin Women's University Computer Club Member
 
 `2026.01 - 2026.02` **LG Aimers 8th**
 <br>
-LG LLM Compression Hackathon (EXAONE-4.0-1.2B)
+LLM Compression Hackathon (LG EXAONE-4.0-1.2B)
 
 
 
