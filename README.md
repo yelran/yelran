@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Yerin Lee
-AI Convergence student, 3rd Year
+**IoT** Major · **AI Convergence** Double Major, 3rd Year
 
   <br>
   
