@@ -45,7 +45,7 @@ Deep Learning Track Member · JobAI Project
 
 `2026.03 - Present` **ToI 4th**
 <br>
-Sungshin Women's University Mobility Club Member · Autonomous Driving Project
+Sungshin Women's University Mobility Track Member · Autonomous Driving Project
 
 
 
